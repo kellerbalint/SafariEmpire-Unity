@@ -1,0 +1,20 @@
+{
+  "name": "GameCore.Editor",
+  "rootNamespace": "",
+  "references": [
+    "GameCore",
+    "UnityEditor",
+    "UnityEditor.Build",
+    "UnityEditor.Build.Reporting",
+    "UnityEditor.Callbacks"
+  ],
+  "includePlatforms": ["Editor"],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
