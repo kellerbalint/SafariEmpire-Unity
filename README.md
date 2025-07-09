@@ -13,6 +13,9 @@ Git was used as the version control system throughout the project.
 Due to migration from GitLab, this repository does not include the full commit and merge history.  
 Despite this, best practices for Git workflow (branching, committing, merging) were followed during development.
 
+## About the game
+The game rules and description can be found in `Feladatleírás.md`
+
 ## How to Run  
 1. Clone this repository.  
 2. Open the project folder in Unity Editor (recommended version: `6000.0.41f1`).  
